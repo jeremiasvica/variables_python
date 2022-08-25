@@ -24,3 +24,7 @@ apellido = str(input())
 
 # Imprimir la cantidad de letras que posee su nombre completo
 # cantidad_letras = len(....)
+print('mi nombre completo es', nombre, apellido)
+nombre_completo = 'Jeremias Vica'
+Jeremias_Vica_len = len(nombre_completo)
+print('mi nombre tiene',len(nombre_completo) , 'letras' )

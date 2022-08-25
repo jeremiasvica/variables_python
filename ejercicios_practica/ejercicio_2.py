@@ -33,3 +33,9 @@ numero_2 = int(input())
 # División
 
 # Multiplicación
+
+print('21', '7')
+print('el resultado de la suma',numero_1 + numero_2)
+print('el resultado de la resta',numero_1 - numero_2)
+print('el resultado de la divison',numero_1 / numero_2)
+print('el resultado de la multiplicacion', numero_1 * numero_2)
